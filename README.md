@@ -1,2 +1,5 @@
-# getting-rusty
-just a repo i use for committing small bits of code to revise rust
+# Getting Rusty
+
+This is just a repo I use for committing small bits of code to revise rust. Below is the order in which I added the pieces:
+
+1. [hello-world](./hello-world)
