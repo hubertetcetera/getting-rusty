@@ -4,3 +4,4 @@ This is just a repo I use for committing small bits of code to revise rust. Belo
 
 1. [hello-world](./hello-world)
 2. [variables](./variables)
+3. [constants](./constants)
